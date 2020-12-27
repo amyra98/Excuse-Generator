@@ -1,0 +1,33 @@
+.body{
+    background-color :lightblue;
+    font-size: 30px;
+}
+
+.container {
+    background-color: #d6d6c2;
+    height: 300px;
+    /* width: 30%; */
+    margin-top: 5%;
+    text-align: center;
+}
+
+.container1{
+    background-color: #d6d6c2;
+    height: 300px;
+    width: 100%;
+    margin-top: 5%;
+    text-align: center;
+}
+.column {
+    display: flex;
+    border: 200px;
+    padding: 50px;
+}
+
+button{
+    margin-top: 20px;
+}
+
+h3{
+    color: #5d5d3c ;
+}
